@@ -21,7 +21,7 @@ This approach made:
 
 ### Project Structure:  
 
-<img width="428" alt="" src="https://github.com/user-attachments/assets/207fcc08-e4c0-4c9d-8c37-33a193c255f3" />
+<img width="428" alt="" src="https://github.com/user-attachments/assets/d837e9c7-cab5-4b51-bb8c-3dce4994051e" />
 
 ---
 
@@ -30,17 +30,17 @@ This approach made:
 1. Implicit Wait (Global Level)
 - Set once during driver initialization:  
   - Automatically waits for seconds specified in the properties file for elements to appear  
-<img width="1593" alt="" src="https://github.com/user-attachments/assets/8c3f3efd-7046-4f37-ba07-f08be2f8e181" />  
+<img width="1593" alt="" src="https://github.com/user-attachments/assets/a3050651-5642-478b-9f67-6962ba3170f9" />  
   <br><br>
 
 2. Reusable Wait Utility Method  (WaitUtil.java)  
-  <img width="1465" alt="" src="https://github.com/user-attachments/assets/15ded462-7d21-4577-bef9-800f8309bf7d" />
+<img width="1465" alt="" src="https://github.com/user-attachments/assets/d362ca80-6d60-4641-bd37-64ff182bf335" />
   <br><br>
 
 3. Using Explicit Wait:
 - Use the explicit wait method for elements  
   - Best for dynamic elements, modals, loaders, and AJAX  
-<img width="1465" alt="" src="https://github.com/user-attachments/assets/ff589cfa-5bc9-4f90-9771-9b3cf2c2600a" />
+<img width="1465" alt="" src="https://github.com/user-attachments/assets/a21f5875-adcb-46a0-83aa-a4971465c6ce" />
 
 ---
 
@@ -58,7 +58,7 @@ cd selenium-automation-implementing-selenium-explicit-and-implicit-wait
  mvn test
 ```
 
-<img width="1436" alt="WindowsTerminal_ER5FnWy7op" src="https://github.com/user-attachments/assets/9afd1595-b821-429a-9d66-c73123f65868" />
+<img width="1436" alt="WindowsTerminal_ER5FnWy7op" src="https://github.com/user-attachments/assets/1149da30-bf51-45db-aa02-6378128e8fe0" />
 
 ---
 
